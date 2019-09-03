@@ -1,7 +1,8 @@
 #!/bin/bash/env python
 import os
 logo='''\033[1;33mChoose operation:
-[1] Addition                                                    [2] Subtraction
+[1] Addition                                                    
+[2] Subtraction
 [3] Multiplication
 [4] Division
 '''
