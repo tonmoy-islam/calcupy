@@ -3,10 +3,10 @@ It is a simple python program to do simple math opertion(like- addition, substra
 
 ## Installing Process
 You can simply clone this repository by using git. <br> Or put this commands serially on your terminal.
-'''
+```
 * git clone https://github.com/tonmoy-islam/calcupy.git
 * cd calcupy
 * chmod +x calc.py
 * python calc.py
-'''
+```
 [√] Make sure that you have installed python or use python environment.  
