@@ -9,4 +9,4 @@ You can simply clone this repository by using git. <br> Or put this commands ser
 * chmod +x calc.py
 * python calc.py
 ```
-[√] Make sure that you have installed python or use python environment.  
+[√] Make sure that you have installed python package or use python environment on your terminal.  
