@@ -9,4 +9,9 @@ You can simply clone this repository by using git. <br> Or put this commands ser
 * chmod +x calc.py
 * python calc.py
 ```
+
+Or you can copy this command given below--
+```
+bash <(curl -s https://raw.githubusercontent.com/tonmoy-islam/calcupy/master/install.sh)
+```
 [√] Make sure that you have installed python package or use python environment on your terminal.  
